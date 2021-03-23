@@ -96,4 +96,4 @@ async def on_raw_reaction_remove(payload):
     print(str(payload.emoji))
 
 
-bot.run("ODIzOTgyODY2NTkzMzQ5NzI0.YFov2A.YXez7kDPcE9bdQ5Em840Ny08qqw")
+bot.run(TOKEN HERE)
